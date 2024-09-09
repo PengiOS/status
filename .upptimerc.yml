@@ -9,6 +9,8 @@ sites:
     url: Https://pengios.github.io/wiki
   - name: PengiOS Forums
     url: https://github.com/PengiOS/Forums/discussions
+  - name: PengiStatus
+    url: https://pengios.github.io/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
