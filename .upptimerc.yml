@@ -21,13 +21,14 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/PengiOS/pengios.github.io/main/homepage/assets/icon.png
   name: Status - PengiOS
+  favicon: https://raw.githubusercontent.com/PengiOS/pengios.github.io/main/homepage/assets/icon.png
   introTitle: "**PengiStatus** is our status tracker to publish uptime and record outages."
   introMessage: It uses GitHub Actions to track our services every 10 minutes. If you'd like to see more details, contact us or [make an issue on our GitHub](https://github.com/PengiOS/status).
   navbar:
     - title: Status
-      href: /status
+      href: https://pengios.github.io/status
     - title: Main Site
-      href: /
+      href: https://pengios.github.io/
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
 
