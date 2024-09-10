@@ -25,9 +25,9 @@ status-website:
   introMessage: It uses GitHub Actions to track our services every 10 minutes. If you'd like to see more details, contact us or [make an issue on our GitHub](https://github.com/PengiOS/status).
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Main Site
-      href: https://pengios.github.io
+      href: /
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
 
