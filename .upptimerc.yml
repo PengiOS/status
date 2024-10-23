@@ -19,9 +19,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: pengios.github.io
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/PengiOS/pengios.github.io/main/homepage/assets/icon.png
+  logoUrl: https://raw.githubusercontent.com/PengiOS/pengios.github.io/main/public/icon.ico
   name: Status - PengiOS
-  favicon: https://raw.githubusercontent.com/PengiOS/pengios.github.io/main/homepage/assets/icon.png
+  favicon: https://raw.githubusercontent.com/PengiOS/pengios.github.io/main/public/icon.ico
   introTitle: "**PengiStatus** is our status tracker to publish uptime and record outages."
   introMessage: It uses GitHub Actions to track our services every 10 minutes. If you'd like to see more details, contact us or [make an issue on our GitHub](https://github.com/PengiOS/status).
   navbar:
